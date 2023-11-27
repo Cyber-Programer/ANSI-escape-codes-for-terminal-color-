@@ -1,4 +1,4 @@
-# Thsi is color code for terminal you can use it for colord you terminal ( text/tool's/project's/script's ).
+# those are color code for terminal , you can use it for colored you terminal ( text/tools/project/scripts ).
 
 ```
 Light Gray - '\x1b[1;97m'
